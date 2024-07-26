@@ -1,7 +1,7 @@
-function setup() {
-  createCanvas(400, 400);
+html, body {
+  margin: 0;
+  padding: 0;
 }
-
-function draw() {
-  background(220);
+canvas {
+  display: block;
 }
